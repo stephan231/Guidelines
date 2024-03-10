@@ -35,12 +35,9 @@ const guildelines = () => {
             </div>
             <div className="guidelines-2">
               7. The shortlisted/scrutinized teams for the finale of
-              "HACK-A-TANK" will be announced by 4:00 pm on the 22nd of March
-              2024. 📣🏁 10. The Finale round begins at 10:00 am on 5th April
-              2024 and concludes at 5:00 pm on the 6th April 2024. 🏁🕙🏁
+              "MAKE-A-THON" will be announced by 4:00 pm on the 22nd of March
+              2024. 📣🏁
               <br />
-              <br /> 11. The finale round will be offline and held at St.
-              Joseph's Institute of Technology. 🏛️📍 <br />
               <br />
               8. Power outlets and worksheets will be provided to all teams
               prior to the commencement of the event. 🔌📑 <br />
@@ -52,6 +49,11 @@ const guildelines = () => {
               10. Teams must present their projects in a clear and organized
               manner during the finale, ensuring effective communication of
               their ideas. 🗣️📊
+              <br />
+              <br /> 11. The finale round will be offline and held at St.
+              Joseph's Institute of Technology. 🏛️📍 <br />
+              <br />
+              <br />
             </div>
           </div>
         </div>
